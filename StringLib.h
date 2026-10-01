@@ -1,7 +1,7 @@
 #pragma once
 #include <string>
 #include <algorithm>
-//////hh
+//////hhkk
 //ä
 // Einfache Klasse fuer String-Hilfsfunktionen
 class TextHelper {
