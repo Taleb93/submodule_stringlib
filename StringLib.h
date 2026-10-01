@@ -2,6 +2,7 @@
 #include <string>
 #include <algorithm>
 //////hh
+//ä
 // Einfache Klasse fuer String-Hilfsfunktionen
 class TextHelper {
 public:
